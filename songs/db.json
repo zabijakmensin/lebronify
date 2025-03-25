@@ -27,6 +27,7 @@
         },
         {
             "id": 4,
+            "image": 2,
             "name": "DARK MEAT UPC",
             "songs": [3, 4]
         }
