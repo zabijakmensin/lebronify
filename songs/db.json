@@ -24,6 +24,11 @@
             "name": "ilyaugust",
             "image": "0",
             "songs": [1, 2, 5, 6, 11, 12]
+        },
+        {
+            "id": 4,
+            "name": "DARK MEAT UPC",
+            "songs": [3, 4]
         }
     ],
     "artists": [
