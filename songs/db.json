@@ -18,6 +18,12 @@
             "id": 2,
             "name": "Happy Mood",
             "songs": [0, 1, 2]
+        },
+        {
+            "id": 3,
+            "name": "ilyaugust",
+            "image": "0",
+            "songs": [1, 2, 5, 6, 11, 12]
         }
     ],
     "artists": [
