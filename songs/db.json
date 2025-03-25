@@ -7,15 +7,18 @@
         {
             "id": 0,
             "name": "LeGreat Hits",
+            "image": 8
             "songs": [7, 1, 5, 6, 11, 8, 0, 13]
         },
         {
             "id": 1,
             "name": "Sad Mood",
+            "image": 6,
             "songs": [3, 4, 7]
         },
         {
             "id": 2,
+            "image": 7,
             "name": "Happy Mood",
             "songs": [0, 1, 2, 13]
         },
