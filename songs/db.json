@@ -1,0 +1,79 @@
+{
+    "version": "1.0.0",
+    "users": [
+        
+    ],
+    "playlists": [
+        {
+            "id": 0,
+            "name": "LeGreat Hits",
+            "songs": [0, 1, 2, 3, 4, 6, 7]
+        },
+        {
+            "id": 1,
+            "name": "Sad Mood",
+            "songs": [3, 4, 7]
+        },
+        {
+            "id": 2,
+            "name": "Happy Mood",
+            "songs": [0, 1, 2]
+        }
+    ],
+    "artists": [
+        {
+            "id": 0,
+            "name": "Talented Blake"
+        },
+        {
+            "id": 1,
+            "name": "ilyaugust"
+        },
+        {
+            "id": 2,
+            "name": "DARK MEAT UPC"
+        }
+    ],
+    "songs": [
+        {
+            "id": 0,
+            "title": "The Man On The Lakers",
+            "artists": ["Talented Blake"]
+        },
+        {
+            "id": 1,
+            "title": "That's Bron",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 2,
+            "title": "I Write Bron’s Not Brongedies",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 3,
+            "title": "Towards The Bron",
+            "artists": ["DARK MEAT UPC"]
+        },
+        {
+            "id": 4,
+            "title": "Dunk with a smile",
+            "artists": ["DARK MEAT UPC"]
+        },
+        {
+            "id": 5,
+            "title": "Towards The Bron",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 6,
+            "title": "Bring Me Back To Bron",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 7,
+            "title": "Slow Dancing with LeBron",
+            "artists": ["vibestealer"]
+        }
+    ]
+}
