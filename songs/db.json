@@ -27,9 +27,9 @@
         },
         {
             "id": 4,
-            "image": 2,
+            "image": 3,
             "name": "DARK MEAT UPC",
-            "songs": [3, 4]
+            "songs": [3, 4, 17]
         }
     ],
     "artists": [
@@ -134,6 +134,12 @@
             "id": 16,
             "title": "We Are Lebron",
             "artists": ["Cleveland City"]
+        },
+        {
+            "id": 17,
+            "image": 2,
+            "title": "R&B LeBron James",
+            "artists": ["DARK MEAT UPC"]
         }
     ]
 }
