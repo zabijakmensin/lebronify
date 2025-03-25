@@ -74,6 +74,31 @@
             "id": 7,
             "title": "Slow Dancing with LeBron",
             "artists": ["vibestealer"]
+        },
+        {
+            "id": 8,
+            "title": "Thank You For LeBron",
+            "artists": ["johnny.boah"]
+        },
+        {
+            "id": 9,
+            "title": "There Goes My LeBron",
+            "artists": ["Dylan Thomas"]
+        },
+        {
+            "id": 10,
+            "title": "This Bron",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 11,
+            "title": "I'd Catch a LeNade For You",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 12,
+            "title": "Thinking 'Bout LeBron",
+            "artists": ["ilyaugust"]
         }
     ]
 }
