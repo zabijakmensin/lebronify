@@ -65,11 +65,13 @@
         {
             "id": 3,
             "title": "Towards The Bron",
+            "image": 2,
             "artists": ["DARK MEAT UPC"]
         },
         {
             "id": 4,
             "title": "Dunk with a smile",
+            "image": 2,
             "artists": ["DARK MEAT UPC"]
         },
         {
