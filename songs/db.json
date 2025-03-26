@@ -244,6 +244,36 @@
             "title": "LeBroon",
             "image": 14,
             "artists": ["Jack Foudray"]
+        },
+        {
+            "id": 30,
+            "title": "That's Bron",
+            "artists": ["JJ Darrow"]
+        },
+        {
+            "id": 31,
+            "title": "Romantic Bronicide",
+            "artists": ["ilyaugust"]
+        },
+        {
+            "id": 32,
+            "title": "I Need You In My Life",
+            "artists": ["okayplanb"]
+        },
+        {
+            "id": 33,
+            "title": "Lakers In Five",
+            "artists": ["zakhifikes1"]
+        },
+        {
+            "id": 34,
+            "title": "Thousand Miles",
+            "artists": ["zakhifikes1"]
+        },
+        {
+            "id": 35,
+            "title": "Mister LeBron",
+            "artists": ["zakhifikes1"]
         }
     ]
 }
