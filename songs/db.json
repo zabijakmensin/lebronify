@@ -180,21 +180,25 @@
         {
             "id": 20,
             "title": "King LeBron Walking",
+            "image": 12,
             "artists": ["xenjournal"]
         },
         {
             "id": 21,
             "title": "I Kissed LeBron",
+            "image": 12,
             "artists": ["xenjournal"]
         },
         {
             "id": 22,
             "title": "You",
+            "image": 12,
             "artists": ["xenjournal"]
         },
         {
             "id": 23,
             "title": "Get Bron",
+            "image": 12,
             "artists": ["xenjournal"]
         }
     ]
