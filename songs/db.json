@@ -182,6 +182,7 @@
         {
             "id": 19,
             "title": "Am I LeWrong",
+            "image": 14,
             "artists": ["Jack Foudray"]
         },
         {
@@ -241,7 +242,7 @@
         {
             "id": 29,
             "title": "LeBroon",
-            "image": 13,
+            "image": 14,
             "artists": ["Jack Foudray"]
         }
     ]
