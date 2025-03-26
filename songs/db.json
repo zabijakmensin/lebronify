@@ -64,11 +64,13 @@
         {
             "id": 1,
             "title": "That's Bron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 2,
             "title": "I Write Bron’s Not Brongedies",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
@@ -86,16 +88,19 @@
         {
             "id": 5,
             "title": "Towards The Bron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 6,
             "title": "Bring Me Back To Bron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 7,
             "title": "Slow Dancing with LeBron",
+            "image": 0,
             "image": 9,
             "artists": ["vibestealer"]
         },
@@ -112,21 +117,25 @@
         {
             "id": 10,
             "title": "This Bron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 11,
             "title": "I'd Catch a LeNade For You",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 12,
             "title": "Thinking 'Bout LeBron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
             "id": 13,
             "title": "Marry LeBron",
+            "image": 0,
             "artists": ["ilyaugust"]
         },
         {
