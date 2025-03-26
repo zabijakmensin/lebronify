@@ -8,21 +8,21 @@
             "id": 0,
             "name": "LeGreat Hits",
             "image": 8,
-            "songs": [7, 1, 5, 6, 11, 8, 16, 18, 0, 13],
+            "songs": [7, 1, 5, 6, 11, 8, 16, 18, 0, 21, 13],
             "description": "The biggest LeHits of all time."
         },
         {
             "id": 1,
             "name": "Sad Mood",
             "image": 6,
-            "songs": [3, 4, 7, 19],
+            "songs": [3, 4, 7, 19, 23],
             "description": "For when you're in a LeSad mood."
         },
         {
             "id": 2,
             "image": 7,
             "name": "Happy Mood",
-            "songs": [0, 1, 2, 13],
+            "songs": [0, 1, 2, 13, 21],
             "description": "For when you're in a LeHappy mood."
         },
         {
