@@ -286,31 +286,37 @@
         {
             "id": 36,
             "title": "Save LeBron For Another Day",
+            "image": 15,
             "artists": ["maynburneracc"]
         },
         {
             "id": 37,
             "title": "Moves Like LeBron",
+            "image": 15,
             "artists": ["maynburneracc"]
         },
         {
             "id": 38,
             "title": "Blinding LeBron",
+            "image": 15,
             "artists": ["maynburneracc"]
         },
         {
             "id": 39,
             "title": "LeThriller",
+            "image": 15,
             "artists": ["maynburneracc"]
         },
         {
             "id": 40,
             "title": "I Can't Feel My Face",
+            "image": 15,
             "artists": ["maynburneracc"]
         },
         {
             "id": 41,
             "title": "LeBron Jean",
+            "image": 15,
             "artists": ["maynburneracc"]
         }
     ]
