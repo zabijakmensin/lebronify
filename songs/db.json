@@ -38,6 +38,12 @@
             "name": "DARK MEAT UPC",
             "songs": [3, 4, 17],
             "description": "DARK MEAT UPC's songs in one package."
+        },
+        {
+            "id": 5,
+            "name": "xenjournal",
+            "songs": [21, 22, 20, 23],
+            "description": "xenjournal's songs in one package."
         }
     ],
     "artists": [
