@@ -51,6 +51,13 @@
             "image": 13,
             "songs": [24, 25, 26, 27, 28],
             "description": "kidkronke's songs in one package."
+        },
+        {
+            "id": 7,
+            "name": "maynburneracc",
+            "image": 15,
+            "songs": [36, 37, 38, 39, 40, 41],
+            "description": "maynburneracc's songs in one package."
         }
     ],
     "artists": [
@@ -279,6 +286,31 @@
         {
             "id": 36,
             "title": "Save LeBron For Another Day",
+            "artists": ["maynburneracc"]
+        },
+        {
+            "id": 37,
+            "title": "Moves Like LeBron",
+            "artists": ["maynburneracc"]
+        },
+        {
+            "id": 38,
+            "title": "Blinding LeBron",
+            "artists": ["maynburneracc"]
+        },
+        {
+            "id": 39,
+            "title": "LeThriller",
+            "artists": ["maynburneracc"]
+        },
+        {
+            "id": 40,
+            "title": "I Can't Feel My Face",
+            "artists": ["maynburneracc"]
+        },
+        {
+            "id": 41,
+            "title": "LeBron Jean",
             "artists": ["maynburneracc"]
         }
     ]
