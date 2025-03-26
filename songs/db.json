@@ -170,6 +170,11 @@
             "id": 19,
             "title": "Am I LeWrong",
             "artists": ["Jack Foudray"]
+        },
+        {
+            "id": 20,
+            "title": "I Kissed LeBron",
+            "artists": ["xenjournal"]
         }
     ]
 }
