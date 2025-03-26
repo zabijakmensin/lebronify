@@ -44,6 +44,13 @@
             "name": "xenjournal",
             "songs": [21, 22, 20, 23],
             "description": "xenjournal's songs in one package."
+        },
+        {
+            "id": 6,
+            "name": "kidkronke",
+            "image": 13,
+            "songs": [24, 25, 26, 27],
+            "description": "kidkronke's songs in one package."
         }
     ],
     "artists": [
@@ -200,6 +207,30 @@
             "title": "Get Bron",
             "image": 12,
             "artists": ["xenjournal"]
+        },
+        {
+            "id": 24,
+            "title": "LeBron's Idea",
+            "image": 13,
+            "artists": ["kidkronke"]
+        },
+        {
+            "id": 25,
+            "title": "Upside Bron",
+            "image": 13,
+            "artists": ["kidkronke"]
+        },
+        {
+            "id": 26,
+            "title": "LeBeauty And a Beat",
+            "image": 13,
+            "artists": ["kidkronke"]
+        },
+        {
+            "id": 27,
+            "title": "LeRude",
+            "image": 13,
+            "artists": ["kidkronke"]
         }
     ]
 }
