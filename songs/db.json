@@ -318,6 +318,11 @@
             "title": "LeBron Jean",
             "image": 15,
             "artists": ["maynburneracc"]
+        },
+        {
+            "id": 42,
+            "title": "I'm Talking About The Man On The Lakers",
+            "artists": ["BangersOnly"]
         }
     ]
 }
