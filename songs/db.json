@@ -49,7 +49,7 @@
             "id": 6,
             "name": "kidkronke",
             "image": 13,
-            "songs": [24, 25, 26, 27],
+            "songs": [24, 25, 26, 27, 28],
             "description": "kidkronke's songs in one package."
         }
     ],
@@ -229,6 +229,12 @@
         {
             "id": 27,
             "title": "LeRude",
+            "image": 13,
+            "artists": ["kidkronke"]
+        },
+        {
+            "id": 28,
+            "title": "LeFeel It",
             "image": 13,
             "artists": ["kidkronke"]
         }
