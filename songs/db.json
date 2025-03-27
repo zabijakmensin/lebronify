@@ -29,7 +29,7 @@
             "id": 3,
             "name": "ilyaugust",
             "image": "0",
-            "songs": [1, 2, 5, 6, 10, 11, 12, 13, 31],
+            "songs": [1, 2, 5, 6, 10, 11, 12, 13, 31, 44],
             "description": "ilyaugust's songs in one package."
         },
         {
@@ -329,6 +329,12 @@
             "title": "LeBron's Cheerleader",
             "image": 13,
             "artists": ["kidkronke"]
+        },
+        {
+            "id": 44,
+            "title": "The Sweet LeScape",
+            "image": 0,
+            "artists": ["ilyaugust"]
         }
     ]
 }
