@@ -49,7 +49,7 @@
             "id": 6,
             "name": "kidkronke",
             "image": 13,
-            "songs": [24, 25, 26, 27, 28],
+            "songs": [24, 25, 26, 27, 28, 43],
             "description": "kidkronke's songs in one package."
         },
         {
@@ -323,6 +323,12 @@
             "id": 42,
             "title": "I'm Talking About The Man On The Lakers",
             "artists": ["BangersOnly"]
+        },
+        {
+            "id": 43,
+            "title": "LeBron's Cheerleader",
+            "image": 13,
+            "artists": ["kidkronke"]
         }
     ]
 }
