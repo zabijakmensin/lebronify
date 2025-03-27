@@ -68,6 +68,7 @@
     "artists": [
         {
             "id": 0,
+            "image": 17,
             "name": "Talented Blake"
         },
         {
@@ -77,7 +78,43 @@
         },
         {
             "id": 2,
+            "image": 3,
             "name": "DARK MEAT UPC"
+        },
+        {
+            "id": 3,
+            "image": 14,
+            "name": "Jack Foudray"
+        },
+        {
+            "id": 4,
+            "image": 16,
+            "name": "Trim Ringling"
+        },
+        {
+            "id": 5,
+            "image": 18,
+            "name": "xenjournal"
+        },
+        {
+            "id": 6,
+            "image": 15,
+            "name": "maynburneracc"
+        },
+        {
+            "id": 7,
+            "image": 20,
+            "name": "zakhifikes1"
+        },
+        {
+            "id": 8,
+            "image": 19,
+            "name": "vibestealer"
+        },
+        {
+            "id": 9,
+            "image": 13,
+            "name": "kidkronke"
         }
     ],
     "songs": [
