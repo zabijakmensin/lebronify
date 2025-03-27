@@ -58,6 +58,13 @@
             "image": 15,
             "songs": [36, 37, 38, 39, 40, 41],
             "description": "maynburneracc's songs in one package."
+        },
+        {
+            "id": 8,
+            "name": "Trim Ringling",
+            "image": 16,
+            "songs": [45, 46, 47, 48, 49, 50],
+            "description": "Trim Ringling's songs in one package."
         }
     ],
     "artists": [
@@ -335,6 +342,42 @@
             "title": "The Sweet LeScape",
             "image": 0,
             "artists": ["ilyaugust"]
+        },
+        {
+            "id": 45,
+            "title": "Best I Ever Had",
+            "image": 16,
+            "artists": ["Trim Ringling"]
+        },
+        {
+            "id": 46,
+            "title": "LeBron Was Wide Open",
+            "image": 16,
+            "artists": ["Trim Ringling"]
+        },
+        {
+            "id": 47,
+            "title": "Bron I Can't Decide",
+            "image": 16,
+            "artists": ["Trim Ringling"]
+        },
+        {
+            "id": 48,
+            "title": "I Glazed LeBron",
+            "image": 16,
+            "artists": ["Trim Ringling"]
+        },
+        {
+            "id": 49,
+            "title": "King, I'ma choke",
+            "image": 16,
+            "artists": ["Trim Ringling"]
+        },
+        {
+            "id": 50,
+            "title": "LeBron James",
+            "image": 16,
+            "artists": ["Trim Ringling"]
         }
     ]
 }
