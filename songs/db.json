@@ -146,6 +146,11 @@
             "id": 14,
             "image": 25,
             "name": "omgitsnotjane"
+        },
+        {
+            "id": 15,
+            "image": 26,
+            "name": "Aidan Peterson"
         }
     ],
     "songs": [
@@ -638,10 +643,10 @@
         },
         {
             "id": 71,
-            "title": "You Are My Sunshine",
-            "image": 25,
-            "artists": ["Ramon Angelo"],
-            "album": "Ramon Angelo"
+            "title": "Le-upside Bron",
+            "image": 26,
+            "artists": ["Aidan Peterson"],
+            "album": "Aidan Peterson"
         },
         {
             "id": 72,
@@ -726,6 +731,13 @@
             "image": 26,
             "artists": ["omgitsnotjane"],
             "album": "omgitsnotjane"
+        },
+        {
+            "id": 84,
+            "title": "Accidentally LeBron",
+            "image": 26,
+            "artists": ["Aidan Peterson"],
+            "album": "Aidan Peterson"
         }
     ]
 }
