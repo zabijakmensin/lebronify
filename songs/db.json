@@ -120,6 +120,21 @@
             "id": 10,
             "image": 21,
             "name": "Lil Zay"
+        },
+        {
+            "id": 11,
+            "image": 22,
+            "name": "dzdiablo25"
+        },
+        {
+            "id": 12,
+            "image": 23,
+            "name": "SecretAsian6"
+        },
+        {
+            "id": 13,
+            "image": 24,
+            "name": "beezysimms"
         }
     ],
     "songs": [
@@ -532,6 +547,69 @@
             "image": 21,
             "artists": ["Lil Zay"],
             "album": "Lil Zay"
+        },
+        {
+            "id": 60,
+            "title": "New LeBron, Same Old Glaze",
+            "image": 22,
+            "artists": ["dzdiablo25"],
+            "album": "dzdiablo25"
+        },
+        {
+            "id": 61,
+            "title": "LeBaila Solo",
+            "image": 22,
+            "artists": ["dzdiablo25"],
+            "album": "dzdiablo25"
+        },
+        {
+            "id": 62,
+            "title": "Degoat",
+            "image": 22,
+            "artists": ["dzdiablo25"],
+            "album": "dzdiablo25"
+        },
+        {
+            "id": 63,
+            "title": "Viva LeBron James",
+            "image": 22,
+            "artists": ["dzdiablo25"],
+            "album": "dzdiablo25"
+        },
+        {
+            "id": 64,
+            "title": "This Is How LeBron's The Goat",
+            "image": 23,
+            "artists": ["SecretAsian6"],
+            "album": "SecretAsian6"
+        },
+        {
+            "id": 65,
+            "title": "Bronis",
+            "image": 23,
+            "artists": ["SecretAsian6"],
+            "album": "SecretAsian6"
+        },
+        {
+            "id": 66,
+            "title": "I Just Love LeBron James",
+            "image": 23,
+            "artists": ["SecretAsian6"],
+            "album": "SecretAsian6"
+        },
+        {
+            "id": 67,
+            "title": "Trap LeBroyalty",
+            "image": 24,
+            "artists": ["beezysimms"],
+            "album": "beezysimms"
+        },
+        {
+            "id": 68,
+            "title": "When I Was LeBron",
+            "image": 24,
+            "artists": ["beezysimms"],
+            "album": "beezysimms"
         }
     ]
 }
