@@ -1,8 +1,6 @@
 {
     "version": "1.0.0",
-    "users": [
-        
-    ],
+    "users": [],
     "playlists": [
         {
             "id": 0,
@@ -86,298 +84,348 @@
             "id": 0,
             "title": "The Man On The Lakers",
             "image": 1,
-            "artists": ["Talented Blake"]
+            "artists": ["Talented Blake"],
+            "album": "Talented Blake"
         },
         {
             "id": 1,
             "title": "That's Bron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 2,
             "title": "I Write Bron’s Not Brongedies",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 3,
             "title": "Towards The Bron",
             "image": 2,
-            "artists": ["DARK MEAT UPC"]
+            "artists": ["DARK MEAT UPC"],
+            "album": "DARK MEAT UPC"
         },
         {
             "id": 4,
             "title": "Dunk with a smile",
             "image": 2,
-            "artists": ["DARK MEAT UPC"]
+            "artists": ["DARK MEAT UPC"],
+            "album": "DARK MEAT UPC"
         },
         {
             "id": 5,
             "title": "Towards The Bron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 6,
             "title": "Bring Me Back To Bron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 7,
             "title": "Slow Dancing with LeBron",
-            "image": 0,
             "image": 9,
-            "artists": ["vibestealer"]
+            "artists": ["vibestealer"],
+            "album": "vibestealer"
         },
         {
             "id": 8,
             "title": "Thank You For LeBron",
-            "artists": ["johnny.boah"]
+            "artists": ["johnny.boah"],
+            "album": "johnny.boah"
         },
         {
             "id": 9,
             "title": "There Goes My LeBron",
-            "artists": ["Dylan Thomas"]
+            "artists": ["Dylan Thomas"],
+            "album": "Dylan Thomas"
         },
         {
             "id": 10,
             "title": "This Bron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 11,
             "title": "I'd Catch a LeNade For You",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 12,
             "title": "Thinking 'Bout LeBron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 13,
             "title": "Marry LeBron",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 14,
             "title": "He Is The KING",
-            "artists": ["Gamaboy Cover Songs Lyrics"]
+            "artists": ["Gamaboy Cover Songs Lyrics"],
+            "album": "Gamaboy Cover Songs Lyrics"
         },
         {
             "id": 15,
             "title": "Like LeBron",
-            "artists": ["featjon"]
+            "artists": ["featjon"],
+            "album": "featjon"
         },
         {
             "id": 16,
             "title": "We Are Lebron",
             "image": 10,
-            "artists": ["Cleveland City"]
+            "artists": ["Cleveland City"],
+            "album": "Cleveland City"
         },
         {
             "id": 17,
             "image": 5,
             "title": "R&B LeBron James",
-            "artists": ["DARK MEAT UPC"]
+            "artists": ["DARK MEAT UPC"],
+            "album": "DARK MEAT UPC"
         },
         {
             "id": 18,
             "title": "6'7 Frame",
             "image": 11,
-            "artists": ["bandlabrookie"]
+            "artists": ["bandlabrookie"],
+            "album": "bandlabrookie"
         },
         {
             "id": 19,
             "title": "Am I LeWrong",
             "image": 14,
-            "artists": ["Jack Foudray"]
+            "artists": ["Jack Foudray"],
+            "album": "Jack Foudray"
         },
         {
             "id": 20,
             "title": "King LeBron Walking",
             "image": 12,
-            "artists": ["xenjournal"]
+            "artists": ["xenjournal"],
+            "album": "xenjournal"
         },
         {
             "id": 21,
             "title": "I Kissed LeBron",
             "image": 12,
-            "artists": ["xenjournal"]
+            "artists": ["xenjournal"],
+            "album": "xenjournal"
         },
         {
             "id": 22,
             "title": "You",
             "image": 12,
-            "artists": ["xenjournal"]
+            "artists": ["xenjournal"],
+            "album": "xenjournal"
         },
         {
             "id": 23,
             "title": "Get Bron",
             "image": 12,
-            "artists": ["xenjournal"]
+            "artists": ["xenjournal"],
+            "album": "xenjournal"
         },
         {
             "id": 24,
             "title": "LeBron's Idea",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 25,
             "title": "Upside Bron",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 26,
             "title": "LeBeauty And a Beat",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 27,
             "title": "LeRude",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 28,
             "title": "LeFeel It",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 29,
             "title": "LeBroon",
             "image": 14,
-            "artists": ["Jack Foudray"]
+            "artists": ["Jack Foudray"],
+            "album": "Jack Foudray"
         },
         {
             "id": 30,
             "title": "That's Bron",
-            "artists": ["JJ Darrow"]
+            "artists": ["JJ Darrow"],
+            "album": "JJ Darrow"
         },
         {
             "id": 31,
             "title": "Romantic Bronicide",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 32,
             "title": "I Need You In My Life",
-            "artists": ["okayplanb"]
+            "artists": ["okayplanb"],
+            "album": "okayplanb"
         },
         {
             "id": 33,
             "title": "Lakers In Five",
-            "artists": ["zakhifikes1"]
+            "artists": ["zakhifikes1"],
+            "album": "zakhifikes1"
         },
         {
             "id": 34,
             "title": "Thousand Miles",
-            "artists": ["zakhifikes1"]
+            "artists": ["zakhifikes1"],
+            "album": "zakhifikes1"
         },
         {
             "id": 35,
             "title": "Mister LeBron",
-            "artists": ["zakhifikes1"]
+            "artists": ["zakhifikes1"],
+            "album": "zakhifikes1"
         },
         {
             "id": 36,
             "title": "Save LeBron For Another Day",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 37,
             "title": "Moves Like LeBron",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 38,
             "title": "Blinding LeBron",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 39,
             "title": "LeThriller",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 40,
             "title": "I Can't Feel My Face",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 41,
             "title": "LeBron Jean",
             "image": 15,
-            "artists": ["maynburneracc"]
+            "artists": ["maynburneracc"],
+            "album": "maynburneracc"
         },
         {
             "id": 42,
             "title": "I'm Talking About The Man On The Lakers",
-            "artists": ["BangersOnly"]
+            "artists": ["BangersOnly"],
+            "album": "BangersOnly"
         },
         {
             "id": 43,
             "title": "LeBron's Cheerleader",
             "image": 13,
-            "artists": ["kidkronke"]
+            "artists": ["kidkronke"],
+            "album": "kidkronke"
         },
         {
             "id": 44,
             "title": "The Sweet LeScape",
             "image": 0,
-            "artists": ["ilyaugust"]
+            "artists": ["ilyaugust"],
+            "album": "ilyaugust"
         },
         {
             "id": 45,
             "title": "Best I Ever Had",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         },
         {
             "id": 46,
             "title": "LeBron Was Wide Open",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         },
         {
             "id": 47,
             "title": "Bron I Can't Decide",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         },
         {
             "id": 48,
             "title": "I Glazed LeBron",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         },
         {
             "id": 49,
             "title": "King, I'ma choke",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         },
         {
             "id": 50,
             "title": "LeBron James",
             "image": 16,
-            "artists": ["Trim Ringling"]
+            "artists": ["Trim Ringling"],
+            "album": "Trim Ringling"
         }
     ]
 }
