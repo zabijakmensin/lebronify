@@ -382,12 +382,14 @@
         {
             "id": 33,
             "title": "Lakers In Five",
+            "image": 20,
             "artists": ["zakhifikes1"],
             "album": "zakhifikes1"
         },
         {
             "id": 34,
             "title": "Thousand Miles",
+            "image": 20,
             "artists": ["zakhifikes1"],
             "album": "zakhifikes1"
         },
@@ -395,6 +397,7 @@
             "id": 35,
             "title": "Mister LeBron",
             "artists": ["zakhifikes1"],
+            "image": 20,
             "album": "zakhifikes1"
         },
         {
