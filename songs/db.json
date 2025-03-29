@@ -156,6 +156,11 @@
             "id": 16,
             "image": 28,
             "name": "JJ Darrow"
+        },
+        {
+            "id": 17,
+            "image": 29,
+            "name": "Ramon Angelo"
         }
     ],
     "songs": [
@@ -638,14 +643,14 @@
         {
             "id": 69,
             "title": "Lakers In Five",
-            "image": 25,
+            "image": 29,
             "artists": ["Ramon Angelo"],
             "album": "Ramon Angelo"
         },
         {
             "id": 70,
             "title": "I Want LeBron",
-            "image": 25,
+            "image": 29,
             "artists": ["Ramon Angelo"],
             "album": "Ramon Angelo"
         },
